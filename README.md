@@ -44,7 +44,6 @@
 - **Python** – Core programming language used throughout the project
 - **Streamlit** – Lightweight framework for building the interactive web interface
 - **LangChain** – Framework for chaining together components to build LLM-powered applications
-- **Hugging Face Transformers** – Access to pre-trained LLMs for text generation and understanding
 - **LLMs** – Used for natural language understanding and response generation
 - Additional libraries and tools are listed in `requirements.txt`
 
