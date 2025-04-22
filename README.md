@@ -2,11 +2,6 @@
 
 **Document Conversation** is a Python-based application that enables users to interact with documents through a conversational interface. Utilizing **Streamlit** for the user interface and **Large Language Models (LLMs)** for natural language understanding, this tool allows for efficient querying and summarization of document content.
 
-## 📷 Screenshots
-![image](https://github.com/user-attachments/assets/79a043e4-7d6f-4d29-85a7-3055bf3366d5)
-![image](https://github.com/user-attachments/assets/ce7d713c-f9a8-4f9e-8bec-dc359a5de59b)
-
-
 ## 📁 Project Structure
 
 - `main.py`: Launches the Streamlit application.
@@ -52,6 +47,13 @@
 - **Hugging Face Transformers** – Access to pre-trained LLMs for text generation and understanding
 - **LLMs** – Used for natural language understanding and response generation
 - Additional libraries and tools are listed in `requirements.txt`
+
+## 📷 Screenshots
+
+![image](https://github.com/user-attachments/assets/79a043e4-7d6f-4d29-85a7-3055bf3366d5)
+
+![image](https://github.com/user-attachments/assets/ce7d713c-f9a8-4f9e-8bec-dc359a5de59b)
+
   
 ## 📄 License
 
