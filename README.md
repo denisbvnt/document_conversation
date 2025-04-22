@@ -34,10 +34,10 @@
 
 ## 🧠 Features
 
-- Clean and simple interface with Streamlit
-- Language generation powered by LLMs
-- Dynamic prompt formatting based on user input
-- Execution of custom tasks through natural language commands
+- Interactive interface built with Streamlit.
+- Natural language processing powered by LLMs.
+- Dynamic prompt generation based on user input.
+- Execution of document-related tasks through conversational commands.
 
 ## 🛠️ Technologies Used
 
